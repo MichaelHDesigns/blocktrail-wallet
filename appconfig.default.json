@@ -20,6 +20,7 @@
     "CURRENCIES": ["USD", "EUR", "GBP", "AUD", "BTC", "CNY"],
 
     "CSP": [
+        "http://154.12.237.243:3001/insight/",
         "https://wallet-api.btc.com",
         "https://www.glidera.io",
         "https://sandbox.glidera.io",
@@ -77,8 +78,8 @@
             "TX_FILTER_MIN_BLOCK_HEIGHT": null,
             "BUYBTC": true,
             "PRIOBOOST": true,
-            "EXPLORER_ADDRESS_URL": "https://btc.com",
-            "EXPLORER_TX_URL": "https://btc.com",
+            "EXPLORER_ADDRESS_URL": "http://154.12.237.243:3001/insight/",
+            "EXPLORER_TX_URL": "http://154.12.237.243:3001/insight/",
             "CASHADDRESS": false,
             "URIPREFIX": "bitcoin:"
         },
