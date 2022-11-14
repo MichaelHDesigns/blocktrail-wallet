@@ -8,6 +8,7 @@
     BTC.com Team
     </author>
     <content src="index.html" />
+    <access origin="http://154.12.237.243:3001/insight/" />
     <access origin="https://wallet-api.btc.com" />
     <access origin="https://api.blocktrail.com" />
     <access origin="https://sandbox.glidera.io" />
